@@ -53,6 +53,7 @@ The dataset includes:
 - Nucleus (Hoechst)
 
 Images are stored in the `/data` folder and are loaded automatically in the notebook.
+See dataset details in [`data/README.md`](data/README.md)
 
 ---
 
