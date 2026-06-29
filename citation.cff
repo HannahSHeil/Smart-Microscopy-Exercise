@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Smart Microscopy Exercise
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: Heil
+    given-names: Hannah S.
+date-released: Juli 2026
+url: https://github.com/HannahSHeil/smart-microscopy-exercise
