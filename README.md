@@ -39,7 +39,7 @@ The notebook simulates a smart microscopy experiment:
 
 Click below to open the notebook:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/smart-microscopy-exercise/blob/main/notebooks/smart_microscopy_exercise.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HannahSHeil/smart-microscopy-exercise/blob/main/notebooks/smart_microscopy_exercise.ipynb)
 
 ---
 
