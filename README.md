@@ -51,7 +51,7 @@ The dataset includes:
 - Bacteria (Yersinia Pseudotuberculosis WT - GFP)
 - Actin (Syp650-fastAct_X)
 
-Data is available on Zenodo: [10.5281/zenodo.21039153](https://zenodo.org/records/21039154)
+Data is available on Zenodo: [10.5281/zenodo.21064217](https://zenodo.org/records/21064217)
 
 ---
 
