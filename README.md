@@ -39,7 +39,7 @@ The notebook simulates a smart microscopy experiment:
 
 Click below to open the notebook:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HannahSHeil/Smart-Microsocpy-Exercise/blob/main/smart_microscopy_exercise.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HannahSHeil/Smart-Microscopy-Exercise/blob/main/smart_microscopy_exercise.ipynb)
 
 ---
 
@@ -51,7 +51,7 @@ The dataset includes:
 - Bacteria (Yersinia Pseudotuberculosis WT - GFP)
 - Actin (Syp650-fastAct_X)
 
-Data is available on Zenodlo: [10.5281/zenodo.21039153](https://zenodo.org/records/21039154)
+Data is available on Zenodo: [10.5281/zenodo.21039153](https://zenodo.org/records/21039154)
 
 ---
 
@@ -62,7 +62,7 @@ The notebook runs in Google Colab and installs all dependencies automatically.
 Key tools used:
 - NumPy  
 - scikit-image  
-- CellSAM (Segment Anything)  
+- Cellpose  
 - matplotlib  
 
 ---
